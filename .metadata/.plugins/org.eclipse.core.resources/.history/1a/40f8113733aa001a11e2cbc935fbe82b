@@ -1,0 +1,56 @@
+package com.cardgame.cardgame;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.ModelMap;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseStatus;
+import org.springframework.web.bind.annotation.SessionAttributes;
+import com.cardgame.cardgame.LoginService;
+
+@Controller
+@SessionAttributes({"name", "description1", "description2", "description3", "description4","score"})
+public class LoginController {
+    @Autowired
+    LoginService service;
+    
+	@Autowired
+	private GameSetup gameSetup;
+
+    @RequestMapping(value="/login", method = RequestMethod.GET)
+    public String showLoginPage(ModelMap model){
+        return "login";
+    }
+      
+    @RequestMapping(value="/login", method = RequestMethod.POST)
+    public String showWelcomePage(ModelMap model, @RequestParam(value="name",required=false) String name, @RequestParam(value="password",required=false) String password, @RequestParam(value="nPlayers",required=false) String nPlayers){
+        if (name==null) {
+    		gameSetup.createGame(model, nPlayers);
+        	return "board";
+        }
+        boolean isValidUser = service.validateUser(name, password);
+        if (!isValidUser) {
+            model.put("errorMessage", "Invalid Credentials");
+            return "login";
+        }
+		if (model.getAttribute(name)!=null) {
+            model.put("errorMessage", "A person is already logged in on this computer");
+            return "login";
+		}
+        model.put("name", name);
+        model.put("password", password);
+        return "welcome";
+    }
+
+//    @RequestMapping(value="/login", method = RequestMethod.POST, headers = "showBoard")
+//    @ResponseStatus(code = HttpStatus.NO_CONTENT)
+//    public String showBoard(ModelMap model, @RequestParam(value="name",required=false) String name, @RequestParam(value="password",required=false) String password){
+//        if (name==null) {
+//        	return "board";
+//        }
+//        return "login";
+//    }
+}

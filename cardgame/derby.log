@@ -1,0 +1,772 @@
+----------------------------------------------------------------
+Wed Apr 08 17:08:23 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-5a55-bc5a-0000017d4f88 
+on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/hp/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=D:\cardgame\cardgame
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Apr 08 17:31:53 CEST 2020:
+Shutting down instance a816c00e-0171-5a55-bc5a-0000017d4f88 on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Apr 08 17:31:55 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c87100b8-0171-5a55-bc5a-0000017d4f88 
+on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/hp/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=D:\cardgame\cardgame
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Apr 08 17:32:06 CEST 2020:
+Shutting down instance c87100b8-0171-5a55-bc5a-0000017d4f88 on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Apr 08 17:32:08 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance dd5cc163-0171-5a55-bc5a-0000017d4f88 
+on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/hp/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=D:\cardgame\cardgame
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Apr 08 17:33:05 CEST 2020:
+Shutting down instance dd5cc163-0171-5a55-bc5a-0000017d4f88 on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Apr 08 17:33:09 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2ed6c20e-0171-5a55-bc5a-0000017d4f88 
+on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/hp/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=D:\cardgame\cardgame
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Apr 08 17:33:45 CEST 2020:
+Shutting down instance 2ed6c20e-0171-5a55-bc5a-0000017d4f88 on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Apr 08 17:33:47 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 06ea82bc-0171-5a55-bc5a-0000017d4f88 
+on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/hp/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=D:\cardgame\cardgame
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Apr 08 17:33:52 CEST 2020:
+Shutting down instance 06ea82bc-0171-5a55-bc5a-0000017d4f88 on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+----------------------------------------------------------------
+Wed Apr 08 17:33:54 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 52014367-0171-5a55-bc5a-0000017d4f88 
+on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/hp/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=D:\cardgame\cardgame
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Apr 08 17:33:55 CEST 2020:
+Shutting down instance 52014367-0171-5a55-bc5a-0000017d4f88 on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Wed Apr 08 17:33:55 CEST 2020 Thread[Thread-96,5,main] Cleanup action starting
+java.sql.SQLException: Database 'memory:testdb' not found.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: ERROR XJ004: Database 'memory:testdb' not found.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 17 more
+============= begin nested exception, level (1) ===========
+ERROR XJ004: Database 'memory:testdb' not found.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+============= end nested exception, level (1) ===========
+Cleanup action completed
+----------------------------------------------------------------
+Wed Apr 08 17:33:56 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 08890409-0171-5a55-bc5a-0000017d4f88 
+on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/hp/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=D:\cardgame\cardgame
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+New exception raised during cleanup Index -1 out of bounds for length 12
+java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 12
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)
+	at java.base/java.util.Objects.checkIndex(Objects.java:373)
+	at java.base/java.util.ArrayList.remove(ArrayList.java:502)
+	at org.apache.derby.iapi.services.context.ContextManager.popContext(Unknown Source)
+	at org.apache.derby.iapi.services.context.ContextImpl.popMe(Unknown Source)
+	at org.apache.derby.impl.store.access.RAMTransaction.destroy(Unknown Source)
+	at org.apache.derby.impl.sql.conn.GenericLanguageConnectionContext.doRollback(Unknown Source)
+	at org.apache.derby.impl.sql.conn.GenericLanguageConnectionContext.internalRollback(Unknown Source)
+	at org.apache.derby.impl.sql.conn.GenericLanguageConnectionContext.cleanupOnError(Unknown Source)
+	at org.apache.derby.iapi.services.context.ContextManager.cleanupOnError(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.cleanupOnError(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.ConnectionChild.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedDatabaseMetaData.getPreparedQueryUsingSystemTables(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedDatabaseMetaData.getPreparedQuery(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedDatabaseMetaData.getPreparedQuery(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedDatabaseMetaData.getTypeInfoMinion(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedDatabaseMetaData.getTypeInfo(Unknown Source)
+	at com.zaxxer.hikari.pool.ProxyDatabaseMetaData.getTypeInfo(ProxyDatabaseMetaData.java:153)
+	at com.zaxxer.hikari.pool.HikariProxyDatabaseMetaData.getTypeInfo(HikariProxyDatabaseMetaData.java)
+	at org.hibernate.engine.jdbc.spi.TypeInfo.extractTypeInfo(TypeInfo.java:84)
+	at org.hibernate.engine.jdbc.env.internal.ExtractedDatabaseMetaDataImpl$Builder.apply(ExtractedDatabaseMetaDataImpl.java:206)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentImpl.<init>(JdbcEnvironmentImpl.java:265)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:114)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:176)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:118)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1202)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1233)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:391)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:378)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1855)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1792)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:595)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1108)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:868)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.cardgame.cardgame.CardgameApplication.main(CardgameApplication.java:18)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Cleanup action completed
+New exception raised during cleanup null
+java.lang.NullPointerException
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.increaseCapacity(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.writeBytes(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArrayOutputStream.write(Unknown Source)
+	at java.base/java.io.DataOutputStream.write(DataOutputStream.java:107)
+	at org.apache.derby.impl.io.vfmem.VirtualRandomAccessFile.write(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.writeToLog(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.flushDirtyBuffers(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.checkpointWithTran(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.checkpoint(Unknown Source)
+	at org.apache.derby.impl.store.raw.RawStore.stop(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.stop(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.shutdown(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.shutdown(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.shutdown(Unknown Source)
+	at org.apache.derby.impl.db.DatabaseContextImpl.cleanupOnError(Unknown Source)
+	at org.apache.derby.iapi.services.context.ContextManager.cleanupOnError(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.cleanupOnError(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Cleanup action completed
+Wed Apr 08 17:34:09 CEST 2020 Thread[Thread-107,5,main] Cleanup action starting
+java.sql.SQLException: Database 'memory:testdb' not found.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: ERROR XJ004: Database 'memory:testdb' not found.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 17 more
+============= begin nested exception, level (1) ===========
+ERROR XJ004: Database 'memory:testdb' not found.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+============= end nested exception, level (1) ===========
+Cleanup action completed
+----------------------------------------------------------------
+Wed Apr 08 17:34:09 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 079e0410-0171-5a55-bc5a-0000017d4f88 
+on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/hp/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=D:\cardgame\cardgame
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+
+------------  Begin Shutdown Error Stack -------------
+
+ERROR XSTB0: An exception was thrown during transaction abort.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.preComplete(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.abort(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.destroy(Unknown Source)
+	at org.apache.derby.impl.store.access.RAMTransaction.destroy(Unknown Source)
+	at org.apache.derby.impl.sql.catalog.DataDictionaryImpl.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.startModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.startModule(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.db.BasicDatabase.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+
+------------  End Shutdown Error Stack -------------
+
+----------------------------------------------------------------
+Wed Apr 08 17:34:10 CEST 2020:
+Shutting down instance 079e0410-0171-5a55-bc5a-0000017d4f88 on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Wed Apr 08 17:34:10 CEST 2020 Thread[Thread-108,5,main] Cleanup action starting
+ERROR XBM01: Startup failed due to an exception. See next exception for details. 
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.exceptionStartingModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: java.lang.NullPointerException
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.increaseCapacity(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.writeBytes(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArrayOutputStream.write(Unknown Source)
+	at java.base/java.io.DataOutputStream.write(DataOutputStream.java:107)
+	at org.apache.derby.impl.io.vfmem.VirtualRandomAccessFile.write(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.writeToLog(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.flushDirtyBuffers(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.FileLogger.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.prepareCommit(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.commit(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.commit(Unknown Source)
+	at org.apache.derby.impl.store.access.RAMTransaction.commit(Unknown Source)
+	at org.apache.derby.impl.sql.catalog.DataDictionaryImpl.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.startModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.startModule(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.db.BasicDatabase.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	... 19 more
+============= begin nested exception, level (1) ===========
+java.lang.NullPointerException
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.increaseCapacity(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.writeBytes(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArrayOutputStream.write(Unknown Source)
+	at java.base/java.io.DataOutputStream.write(DataOutputStream.java:107)
+	at org.apache.derby.impl.io.vfmem.VirtualRandomAccessFile.write(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.writeToLog(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.flushDirtyBuffers(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.FileLogger.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.prepareCommit(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.commit(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.commit(Unknown Source)
+	at org.apache.derby.impl.store.access.RAMTransaction.commit(Unknown Source)
+	at org.apache.derby.impl.sql.catalog.DataDictionaryImpl.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.startModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.startModule(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.db.BasicDatabase.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+============= end nested exception, level (1) ===========
+Cleanup action completed
+Wed Apr 08 17:34:10 CEST 2020 Thread[Thread-108,5,main] Cleanup action starting
+java.sql.SQLException: Failed to create database 'memory:testdb', see the next exception for details.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.seeNextException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: ERROR XJ041: Failed to create database 'memory:testdb', see the next exception for details.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 15 more
+Caused by: ERROR XBM01: Startup failed due to an exception. See next exception for details. 
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.exceptionStartingModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createPersistentService(Unknown Source)
+	... 12 more
+Caused by: java.lang.NullPointerException
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.increaseCapacity(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.writeBytes(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArrayOutputStream.write(Unknown Source)
+	at java.base/java.io.DataOutputStream.write(DataOutputStream.java:107)
+	at org.apache.derby.impl.io.vfmem.VirtualRandomAccessFile.write(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.writeToLog(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.flushDirtyBuffers(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.FileLogger.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.prepareCommit(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.commit(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.commit(Unknown Source)
+	at org.apache.derby.impl.store.access.RAMTransaction.commit(Unknown Source)
+	at org.apache.derby.impl.sql.catalog.DataDictionaryImpl.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.startModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.startModule(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.db.BasicDatabase.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	... 19 more
+============= begin nested exception, level (1) ===========
+java.sql.SQLException: Startup failed due to an exception. See next exception for details. 
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.seeNextException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: ERROR XBM01: Startup failed due to an exception. See next exception for details. 
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 18 more
+Caused by: java.lang.NullPointerException
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.increaseCapacity(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.writeBytes(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArrayOutputStream.write(Unknown Source)
+	at java.base/java.io.DataOutputStream.write(DataOutputStream.java:107)
+	at org.apache.derby.impl.io.vfmem.VirtualRandomAccessFile.write(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.writeToLog(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.flushDirtyBuffers(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.FileLogger.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.prepareCommit(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.commit(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.commit(Unknown Source)
+	at org.apache.derby.impl.store.access.RAMTransaction.commit(Unknown Source)
+	at org.apache.derby.impl.sql.catalog.DataDictionaryImpl.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.startModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.startModule(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.db.BasicDatabase.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createPersistentService(Unknown Source)
+	... 12 more
+============= end nested exception, level (1) ===========
+============= begin nested exception, level (2) ===========
+java.sql.SQLException: Java exception: ': java.lang.NullPointerException'.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.seeNextException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.javaException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: ERROR XJ001: Java exception: ': java.lang.NullPointerException'.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 20 more
+Caused by: java.lang.NullPointerException
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.increaseCapacity(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.writeBytes(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArrayOutputStream.write(Unknown Source)
+	at java.base/java.io.DataOutputStream.write(DataOutputStream.java:107)
+	at org.apache.derby.impl.io.vfmem.VirtualRandomAccessFile.write(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.writeToLog(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.flushDirtyBuffers(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.FileLogger.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.prepareCommit(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.commit(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.commit(Unknown Source)
+	at org.apache.derby.impl.store.access.RAMTransaction.commit(Unknown Source)
+	at org.apache.derby.impl.sql.catalog.DataDictionaryImpl.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.startModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.startModule(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.db.BasicDatabase.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createPersistentService(Unknown Source)
+	... 12 more
+============= end nested exception, level (2) ===========
+============= begin nested exception, level (3) ===========
+ERROR XJ001: Java exception: ': java.lang.NullPointerException'.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.seeNextException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.javaException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: java.lang.NullPointerException
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.increaseCapacity(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.writeBytes(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArrayOutputStream.write(Unknown Source)
+	at java.base/java.io.DataOutputStream.write(DataOutputStream.java:107)
+	at org.apache.derby.impl.io.vfmem.VirtualRandomAccessFile.write(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.writeToLog(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.flushDirtyBuffers(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.FileLogger.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.prepareCommit(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.commit(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.commit(Unknown Source)
+	at org.apache.derby.impl.store.access.RAMTransaction.commit(Unknown Source)
+	at org.apache.derby.impl.sql.catalog.DataDictionaryImpl.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.startModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.startModule(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.db.BasicDatabase.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createPersistentService(Unknown Source)
+	... 12 more
+============= end nested exception, level (3) ===========
+============= begin nested exception, level (4) ===========
+java.lang.NullPointerException
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.increaseCapacity(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArray.writeBytes(Unknown Source)
+	at org.apache.derby.impl.io.vfmem.BlockedByteArrayOutputStream.write(Unknown Source)
+	at java.base/java.io.DataOutputStream.write(DataOutputStream.java:107)
+	at org.apache.derby.impl.io.vfmem.VirtualRandomAccessFile.write(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.writeToLog(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogAccessFile.flushDirtyBuffers(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.FileLogger.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.prepareCommit(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.commit(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.commit(Unknown Source)
+	at org.apache.derby.impl.store.access.RAMTransaction.commit(Unknown Source)
+	at org.apache.derby.impl.sql.catalog.DataDictionaryImpl.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.startModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.startModule(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.db.BasicDatabase.bootServiceModule(Unknown Source)
+	at org.apache.derby.impl.db.BasicDatabase.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+============= end nested exception, level (4) ===========
+Cleanup action completed
+----------------------------------------------------------------
+Wed Apr 08 17:34:16 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d8b1c4ab-0171-5a55-bc5a-0000017d4f88 
+on database directory memory:D:\cardgame\cardgame\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/hp/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=D:\cardgame\cardgame
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

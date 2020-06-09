@@ -1,0 +1,40 @@
+package com.cardgame.cardgame;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.ModelMap;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import com.cardgame.cardgame.SignupService;
+
+@Controller
+public class FirstPageController {
+    @Autowired
+    SignupService service;
+
+    @Autowired
+    UserService userService;
+    
+	@Autowired
+	private GameSetup gameSetup;
+
+//    @RequestMapping(value="/cardgame", method = RequestMethod.GET)
+//    public String showStartPage(ModelMap model){
+//        return "cardgame";
+//    }
+//
+    @RequestMapping(value="/cardgame", method = RequestMethod.POST)
+    public String showWelcomePage(ModelMap model, @RequestParam(value="name",required=false) String name, @RequestParam(value="password",required=false) String password, @RequestParam(value="repassword",required=false) String repassword, @RequestParam(value="nPlayers",required=false) String nPlayers){
+        if (name==null) {
+    		gameSetup.createGame(model,nPlayers);
+            return "board";
+        }
+        if (!service.validateUser(name, password, repassword)) {
+            model.put("errorMessage", "Invalid Credentials");
+            return "signup";
+        }
+        return "welcome";
+    }
+
+}

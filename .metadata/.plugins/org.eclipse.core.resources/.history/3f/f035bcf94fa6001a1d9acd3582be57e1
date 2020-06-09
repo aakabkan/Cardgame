@@ -1,0 +1,149 @@
+package com.cardgame.cardgame;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.ui.ModelMap;
+
+@Service
+public class GameSetup {
+	@Autowired
+	private CardInitializer cardInitializer;
+	@Autowired
+	private CardService cardService;
+	@Autowired
+	private CardInfoService cardInfoService;
+	@Autowired
+	private PlayerService playerService;
+
+	private int nPlayers;
+	private boolean gameCreated=false;
+	private ModelMap model;
+
+	public void createGame(ModelMap model, String strNPlayers){
+		this.model = model;
+		int nPlayers = Integer.parseInt(strNPlayers);
+		model.put("nPlayers", nPlayers);
+		this.nPlayers = nPlayers;
+		if (!gameCreated) {
+			cardInitializer.createCards();
+		}
+		else {
+			cardInitializer.prepareForNewGame();
+		}
+		for (int playerNumber=0;playerNumber<nPlayers;playerNumber++) {
+			createPlayer(playerNumber);
+		}
+	}	
+	
+	private void createPlayer(int playerNumber) {
+		playerService.save(new Player("Player "+playerNumber));
+		randomizeCard(1, playerNumber);
+		randomizeCard(2, playerNumber);
+		randomizeCard(3, playerNumber);
+		randomizeCard(4, playerNumber);
+		playerNumber++;//since the indexes in the model is +1 for all
+		model.put("score"+playerNumber, 0);
+		model.put("draw"+playerNumber, 4);
+		model.put("play"+playerNumber, 1);
+	}
+
+	public void randomizeCard(int cardNumber, int playerNumber){
+		int cardId = (int) Math.ceil(cardInitializer.getTotalNCards()*Math.random());
+		Card card;
+		try {
+			card = checkIfCardIsAlreadyTaken(cardId);
+		}
+		catch (NullPointerException e) {
+			return;
+		}
+		cardService.save(new Card(cardId,card.getCardId(),true));
+		updateCardsInResultList(cardNumber, playerNumber, card.getCardId());
+	}
+
+	private Card checkIfCardIsAlreadyTaken(int cardId) { //If so chooses another if any remains
+		Card card = (Card)cardService.findById(cardId).get();
+		int firstCardId = cardId;
+		while (card.isTaken()) {
+			cardId=(cardId%cardInitializer.getTotalNCards())+1;
+			if(cardId==firstCardId) {
+				model.put("ended", true);
+				return null;
+			}
+			card = (Card)cardService.findById(cardId).get();
+		}
+		return card;
+	}
+
+	public void updateCardsInResultList(int cardNumber, int playerNumber, CardType cardType) {
+		Player player = (Player)playerService.findById("Player "+ playerNumber).get();
+		if (cardNumber==1) {
+			playerService.save(new Player(player.getName(),player.getScore(),player.getDraw(),player.getPlay(),cardType,player.getCard2(),player.getCard3(),player.getCard4(),player.getCard5(),player.getCard6(),player.getHasPlayed()));			
+		}
+		else if (cardNumber==2) {
+			playerService.save(new Player(player.getName(),player.getScore(),player.getDraw(),player.getPlay(),player.getCard1(),cardType,player.getCard3(),player.getCard4(),player.getCard5(),player.getCard6(),player.getHasPlayed()));			
+		}
+		else if (cardNumber==3) {
+			playerService.save(new Player(player.getName(),player.getScore(),player.getDraw(),player.getPlay(),player.getCard1(),player.getCard2(),cardType,player.getCard4(),player.getCard5(),player.getCard6(),player.getHasPlayed()));			
+		}
+		else if (cardNumber==4) {
+			playerService.save(new Player(player.getName(),player.getScore(),player.getDraw(),player.getPlay(),player.getCard1(),player.getCard2(),player.getCard3(),cardType,player.getCard5(),player.getCard6(),player.getHasPlayed()));
+		}
+		else if (cardNumber==5) {
+			playerService.save(new Player(player.getName(),player.getScore(),player.getDraw(),player.getPlay(),player.getCard1(),player.getCard2(),player.getCard3(),player.getCard4(),cardType,player.getCard6(),player.getHasPlayed()));			
+		}
+		else if (cardNumber==6) {
+			playerService.save(new Player(player.getName(),player.getScore(),player.getDraw(),player.getPlay(),player.getCard1(),player.getCard2(),player.getCard3(),player.getCard4(),player.getCard5(),cardType,player.getHasPlayed()));			
+		}
+		if (playerNumber==0) {
+			model.put("description" + cardNumber, cardInfoService.findById(cardType).get().getDescription());
+		}		
+	}
+
+	public void drawNewCard(int playerNumber, CardType cardType, int cardNumber) {
+		Player player = (Player)playerService.findById("Player "+ playerNumber).get();
+		if (cardType==CardType.TAKE_MINUS_POINTS_AND_DISCARD_HAND) {//should discard entire hand
+			for (int cardIndex=1;cardIndex<=player.getDraw();cardIndex++) {
+				randomizeCard(cardIndex,playerNumber);
+			}
+		}
+		else if (cardType==CardType.DECREASE_HAND_LIMIT){//since hand limit decreased, should not draw new card, only reposition cards
+			if (cardNumber==1) {
+				playerService.save(new Player(player.getName(),player.getScore(),player.getDraw(),player.getPlay(),player.getCard(player.getDraw()+1),player.getCard2(),player.getCard3(),player.getCard4(),player.getCard5(),player.getCard6(),player.getHasPlayed()));			
+			}
+			else if (cardNumber==2) {
+				playerService.save(new Player(player.getName(),player.getScore(),player.getDraw(),player.getPlay(),player.getCard1(),player.getCard(player.getDraw()+1),player.getCard3(),player.getCard4(),player.getCard5(),player.getCard6(),player.getHasPlayed()));			
+			}
+			else if (cardNumber==3) {
+				playerService.save(new Player(player.getName(),player.getScore(),player.getDraw(),player.getPlay(),player.getCard1(),player.getCard2(),player.getCard(player.getDraw()+1),player.getCard4(),player.getCard5(),player.getCard6(),player.getHasPlayed()));			
+			}
+			else if (cardNumber==4) {
+				playerService.save(new Player(player.getName(),player.getScore(),player.getDraw(),player.getPlay(),player.getCard1(),player.getCard2(),player.getCard3(),player.getCard(player.getDraw()+1),player.getCard5(),player.getCard6(),player.getHasPlayed()));
+			}
+			else if (cardNumber==5) {
+				playerService.save(new Player(player.getName(),player.getScore(),player.getDraw(),player.getPlay(),player.getCard1(),player.getCard2(),player.getCard3(),player.getCard4(),player.getCard(player.getDraw()+1),player.getCard6(),player.getHasPlayed()));			
+			}
+			if (playerNumber==0) {
+				model.put("description" + cardNumber, cardInfoService.findById(player.getCard(player.getDraw()+1)).get().getDescription());
+			}		
+		}
+   		else{
+			randomizeCard(cardNumber, playerNumber);
+		}
+    	if (playerNumber==0 && player.getPlay()>1) {
+    		for (cardNumber=1;cardNumber<=player.getDraw();cardNumber++) {
+    			try {
+	    			if (model.getAttribute("description"+cardNumber)==null) {
+	    				randomizeCard(cardNumber, playerNumber);    				
+	    			}
+    			}
+    			catch(NullPointerException e) {
+    				randomizeCard(cardNumber, playerNumber);    				
+    			}
+    		}
+    	}
+	}
+
+	public int getnPlayers() {
+		return nPlayers;
+	}
+}
