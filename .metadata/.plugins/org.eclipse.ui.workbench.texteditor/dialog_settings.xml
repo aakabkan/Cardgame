@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="ended"/>
+		<item key="selection" value="System"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="system"/>
 			<item value="ended"/>
 			<item value="playTop"/>
 			<item value="play"/>
@@ -22,7 +23,6 @@
 			<item value="random"/>
 			<item value="reposit"/>
 			<item value="checkIfYou"/>
-			<item value="updateCard"/>
 		</list>
 		<list key="replacehistory">
 			<item value="player"/>

@@ -10,7 +10,8 @@
 <!-- <script src="/resources/board.js"></script>-->
 </head>
 <body>
-	Hi ${name}, this is the game board!<p>
+	Hi, this is the game board! Click on the card you want to play, and try to get as many points as possible.<p id="error">
+	${error}</p>
 	<table>
 		<tr>
             <th></th>

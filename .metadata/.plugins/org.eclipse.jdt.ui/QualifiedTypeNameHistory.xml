@@ -37,11 +37,14 @@
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
     <fullyQualifiedTypeName name="org.hibernate.Session"/>
-    <fullyQualifiedTypeName name="com.cardgame.cardgame.Player"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
     <fullyQualifiedTypeName name="java.util.NoSuchElementException"/>
     <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.cardgame.cardgame.PlayerService"/>
+    <fullyQualifiedTypeName name="com.cardgame.cardgame.Player"/>
+    <fullyQualifiedTypeName name="com.cardgame.cards.CardInfoService"/>
+    <fullyQualifiedTypeName name="com.cardgame.cards.CardInitializer"/>
 </qualifiedTypeNameHistroy>

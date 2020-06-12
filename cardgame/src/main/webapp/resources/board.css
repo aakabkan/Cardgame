@@ -19,29 +19,33 @@ body{
 #box2{
   position: relative;
   top: -229px;
-  left: 160px;;
+  left: 160px;
 }
 
 #box3{
   position: relative;
   top: -458px;
-  left: 320px;;
+  left: 320px;
 }
 
 #box4{
   position: relative;
   top: -687px;
-  left: 480px;;
+  left: 480px;
 }
 
 #box5{
   position: relative;
   top: -916px;
-  left: 640px;;
+  left: 640px;
 }
 
 #box6{
   position: relative;
   top: -1145px;
-  left: 800px;;
+  left: 800px;
+}
+
+#error{
+	color: red;
 }

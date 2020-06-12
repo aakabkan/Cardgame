@@ -17,15 +17,15 @@ public class CardInitializer {
 	private int totalNCards;
 
 	public void createCards() {
-		createSpecificCard(CardType.INCREASE_HAND_LIMIT_FOR_OPPONENT, "Let an opponent player draw an extra card each round. \n\nCan only be given to persons with fewer than six cards.",7,0);
+		createSpecificCard(CardType.INCREASE_HAND_LIMIT_FOR_OPPONENT, "Increase hand limit for an opponent player with one. \n\nCan only be given to persons with fewer than six cards.",10,0);
 		createSpecificCard(CardType.GIVE_OPPONENT_SCORE, "Give an opponent player +20 points.",20,0);
-		createSpecificCard(CardType.REMOVE_CURSE_FROM_OPPONENT, "Remove a curse from an opponent. \n\nCan only be played if an opponent have any curses.",7,0);
+		createSpecificCard(CardType.REMOVE_CURSE_FROM_OPPONENT, "Remove a curse from an opponent. \n\nCan only be played if an opponent have any curses.",10,0);
 		createSpecificCard(CardType.DECREASE_HAND_LIMIT, "Curse: Decrease hand limit with one card. \n\nCan not be played if you already play all the cards in your hand.",15,0);
 		createSpecificCard(CardType.TAKE_MINUS_POINTS, "Give youself -10 points.",35,-10);
-		createSpecificCard(CardType.PLAY_TOPMOST_CARD, "Play the topmost card from the pile.",15,0);
+		createSpecificCard(CardType.PLAY_TOPMOST_CARD, "Play the topmost card from the pile.",20,0);
 		createSpecificCard(CardType.TAKE_MINUS_POINTS_AND_DISCARD_HAND, "Give yourself -20 points. \n\nDiscard your whole hand and draw new cards.",10,-20);
-		createSpecificCard(CardType.SWITCH_SCORE_WITH_OPPONENT, "Switch points with a person with fewer points than you. \n\nCan not be played if you have least.",8,0);
-		createSpecificCard(CardType.INCREASE_PLAYED_CARDS_AND_SCORE, "Curse: Play one extra card each round. \n\nIf you play all cards in your hand, then increase your hand limit with one. \n\nGive yourself +10 points.",8,10);
+		createSpecificCard(CardType.SWITCH_SCORE_WITH_OPPONENT, "Switch points with a person with fewer points than you. \n\nCan not be played if you have least.",10,0);
+		createSpecificCard(CardType.INCREASE_PLAYED_CARDS_AND_SCORE, "Curse: Play one extra card each round. \n\nIf you play all cards in your hand, then increase your hand limit with one. \n\nGive yourself +10 points.",10,10);
 	}
 
 	public void createSpecificCard(CardType id, String description, int nCards, int score) {

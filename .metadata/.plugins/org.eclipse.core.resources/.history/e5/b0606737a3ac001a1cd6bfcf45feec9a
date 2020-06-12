@@ -1,0 +1,51 @@
+@charset "ISO-8859-1";
+
+.box {
+  border: 2px solid black ;
+  height: 225px;
+  width: 150px;
+  background-color: #999999;
+}
+
+p{
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+body{
+	background-color: #00C888;
+}
+
+#box2{
+  position: relative;
+  top: -229px;
+  left: 160px;;
+}
+
+#box3{
+  position: relative;
+  top: -458px;
+  left: 320px;;
+}
+
+#box4{
+  position: relative;
+  top: -687px;
+  left: 480px;;
+}
+
+#box5{
+  position: relative;
+  top: -916px;
+  left: 640px;;
+}
+
+#box6{
+  position: relative;
+  top: -1145px;
+  left: 800px;;
+}
+
+#error{
+	color: red;
+}
